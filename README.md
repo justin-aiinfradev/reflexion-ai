@@ -19,7 +19,7 @@ To get started:
 1. Clone this repo and move to the HotPotQA directory:
 
 ```bash
-git clone https://github.com/noahshinn/reflexion && cd ./hotpotqa_runs
+git clone https://github.com/justin-aiinfradev/reflexion && cd ./hotpotqa_runs
 ```
 
 2. Install the module dependencies into your environment:
@@ -63,7 +63,7 @@ Each notebook allows you to specify the reflexion strategy to be used by the age
 Clone this repo and move to the AlfWorld directory
 
 ```bash
-git clone https://github.com/noahshinn/reflexion && cd ./alfworld_runs
+git clone https://github.com/justin-aiinfradev/reflexion && cd ./alfworld_runs
 ```
 
 Specify the run parameters in `./run_reflexion.sh`.
@@ -91,13 +91,9 @@ Due to the nature of these experiments, it may not be feasible for individual de
 
 Check out the original implementation [here](https://github.com/noahshinn/reflexion-draft)
 
-Read one of the original blog posts [here](https://nanothoughts.substack.com/p/reflecting-on-reflexion)
-
 Check out an [Appl](https://github.com/appl-team/appl) implementation [here](https://github.com/appl-team/reppl/tree/main/reflexion).
 
 Check out an interesting type-prediction implementation here: [OpenTau](https://github.com/GammaTauAI/opentau)
-
-For all questions, contact [noahrshinn@gmail.com](noahrshinn@gmail.com)
 
 ### Cite
 
